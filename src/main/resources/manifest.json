@@ -1,0 +1,20 @@
+{
+  "Group": "dev.tosinplays",
+  "Name": "Storage Tweaks",
+  "Version": "${version}",
+  "Description": "Storage optimization for hytale, sort keybinds, item teleporters, and storage terminal",
+  "Authors": [
+    {
+      "Name": "TosinPlays",
+      "Email": "midastouchproductions@gmail.com",
+      "Url": "https://tosinplays.dev"
+    }
+  ],
+  "Website": "https://your-plugin-website.com",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "Main": "dev.tosinplays.StorageTweaks"
+}
