@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dev.tosinplays</groupId>
-    <artifactId>StorageTweaks</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>MoreHideAndScraps</artifactId>
+    <version>1.0.0</version>
 
     <properties>
         <maven.compiler.source>25</maven.compiler.source>

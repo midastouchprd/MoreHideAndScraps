@@ -1,8 +1,8 @@
 {
   "Group": "dev.tosinplays",
-  "Name": "Storage Tweaks",
+  "Name": "More Hide And Scraps",
   "Version": "${version}",
-  "Description": "Storage optimization for hytale, sort keybinds, item teleporters, and storage terminal",
+  "Description": "Animals drop more hide and scraps.",
   "Authors": [
     {
       "Name": "TosinPlays",
@@ -16,5 +16,5 @@
   "OptionalDependencies": {},
   "DisabledByDefault": false,
   "IncludesAssetPack": true,
-  "Main": "dev.tosinplays.StorageTweaks"
+  "Main": "dev.tosinplays.MoreHideAndScraps"
 }
